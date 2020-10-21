@@ -10,8 +10,8 @@ let ids = []
 let output = []
 
 let api = {
-  hero: 'https://mws.eu.ngame.proximabeta.com/fcgi-bin/gift.fcgi?ticket=miniweb&heroid=',
-  history: 'https://mws.eu.ngame.proximabeta.com/fcgi-py/webserver.py/info?heroid=',
+  hero: 'https://mws.eutc.ngame.proximabeta.com/fcgi-bin/gift.fcgi?ticket=miniweb&heroid=',
+  history: 'https://mws.eutc.ngame.proximabeta.com/fcgi-py/webserver.py/info?heroid=',
   requests: {
     heroes: [],
     history: []
